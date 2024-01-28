@@ -1,0 +1,30 @@
+*{
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   width: 100%;
+}
+h1 {
+   background-color: rgb(237, 176, 210);
+   color: rgb(132, 54, 97);
+}
+h1,h2,p,a {
+   margin-bottom: 2vh;
+   display: flex;
+   justify-content: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.image {
+   display: flex;
+   width: 30vw;
+   margin: 0 auto;
+}
+ul{
+   list-style: none;
+}
+ul{
+   display: flex;
+   justify-content: center;
+   border: 2px solid rgb(237, 176, 210);
+   padding: 15px;
+}
